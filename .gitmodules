@@ -1,0 +1,9 @@
+[submodule "S3-File-Upload-Notification-using-AWS-SAM"]
+	path = S3-File-Upload-Notification-using-AWS-SAM
+	url = https://github.com/adityawdubey/S3-File-Upload-Notification-using-AWS-SAM.git
+[submodule "S3-File-Upload-Notification-using-AWS-CDK"]
+	path = S3-File-Upload-Notification-using-AWS-CDK
+	url = https://github.com/adityawdubey/S3-File-Upload-Notification-using-AWS-CDK.git
+[submodule "S3-File-Upload-Notification-using-Terraform"]
+	path = S3-File-Upload-Notification-using-Terraform
+	url = https://github.com/adityawdubey/S3-File-Upload-Notification-using-Terraform.git
