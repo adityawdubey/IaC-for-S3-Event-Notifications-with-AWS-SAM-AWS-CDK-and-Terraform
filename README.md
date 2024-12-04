@@ -22,7 +22,7 @@ This monorepo is organized into three subdirectories, each focused on a specific
 - **aws-cdk:** Employs AWS CDK for infrastructure definition and deployment.
 - **terraform:** Leverages Terraform for infrastructure provisioning.
 
-check out the blog post for more details: https://adityadubey.cloud/iac-for-s3-event-notifications-with-aws-sam-aws-cdk-and-terraform 
+check out the blog post for more details: https://adityadubey.tech/iac-for-s3-event-notifications-with-aws-sam-aws-cdk-and-terraform 
 
 
 
